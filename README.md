@@ -2,6 +2,9 @@ Short explanation of each code used for the analysis in the bachelor thesis: Eva
 by Emil Fenn
 14.06.2026
 
+Data uploaded on zenodo:
+https://doi.org/10.5281/zenodo.19692183
+
 Python codes:
 
 1. meteostat_data.py
